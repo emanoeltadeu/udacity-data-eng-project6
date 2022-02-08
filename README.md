@@ -20,6 +20,9 @@ Document steps necessary to clean the data
 Map out the conceptual data model and explain why you chose that model
 List the steps necessary to pipeline the data into the chosen data model
 
+### With the data model, we can know how many immigrants arrive in the USA, in a specific city or state and in a specific date.  
+![diagram!](./diagram.png "diagram")
+
 ## Step 4: Run ETL to Model the Data
 Create the data pipelines and the data model
 Include a data dictionary
